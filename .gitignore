@@ -1,0 +1,29 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Operating System files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# IDE/Editor specific files
+.idea/          # JetBrains IDEs (e.g., IntelliJ, WebStorm)
+.vscode/        # Visual Studio Code
+
+# Environment files
+.env            # .env files used for environment variables
+
+# Coverage reports (if you use test coverage tools)
+coverage/
+
+# Build directories (if you use a build process)
+dist/
+build/
+
+# Dependency directories for specific package managers
+/pnpm-debug.log
+/yarn-error.log
+
